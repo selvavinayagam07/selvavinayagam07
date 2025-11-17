@@ -1,79 +1,109 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Selva+Vinayagam;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Welcome+to+My+GitHub+Profile!"/>
-
----
-
-<!-- Banner -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://github.com/selvavinayagam07/selvavinayagam07/blob/main/animated-banner.svg" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Selva+Vinayagam;Full+Stack+Developer;Java+%7C+DSA+%7C+Web+Developer;Welcome+to+My+GitHub+Universe!"/>
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🎓 Final-year Engineering Student  
-- 💻 Passionate about **Web Development + Java + Data Structures**  
-- 🌱 Learning **Full Stack + Interview Prep**  
-- 🧠 Solving LeetCode daily  
-- 🎯 Goal: Become a top software engineer & inspire others
+<!-- Neon Banner -->
+<p align="center">
+  <img src="https://github.com/selvavinayagam07/selvavinayagam07/blob/main/animated-banner.svg" width="100%"/>
+</p>
 
 ---
 
-## 🔥 Tech Stack
+## 🌌 About Me
+<div align="center">
+  <img src="https://img.shields.io/badge/Engineer-Final%20Year-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java%20Developer-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solver-green?style=for-the-badge"/>
+</div>
+
+### 🚀 Quick Intro
+- 💡 Passionate in **Java, Web Development, DSA**
+- 🔥 Solving **LeetCode daily**
+- 🧠 Preparing for placements  
+- 🎯 Goal: Become a top software engineer  
+- 💪 Motivated, Consistent, Focused
+
+---
+
+## 🛠️ Tech Stack (3D Icons)
 
 ### **Frontend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=light" height="70"/>
 </p>
 
 ### **Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=light" height="70"/>
 </p>
 
 ### **Database**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" height="70"/>
 </p>
 
 ### **Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=light" height="70"/>
+</p>
+
+---
+
+## 💎 Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=selvavinayagam07&theme=radical&row=1&column=6" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=selvavinayagam07&show_icons=true&theme=tokyonight" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvavinayagam07&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=selvavinayagam07&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvavinayagam07&theme=radical" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvavinayagam07&layout=compact&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvavinayagam07&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects  
-### ⭐ **(Add your projects here)**
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Portfolio Website** | Personal portfolio with animations | HTML, CSS, JS |
-| **Student Management System** | CRUD operations app | Java, JDBC, MySQL |
-| **LeetCode Solutions** | My daily coding practice | Java |
+---
+
+## 🚀 Featured Projects
+
+| ⭐ Project | Description | Tech Stack |
+|-----------|-------------|------------|
+| **Portfolio Website** | My beautiful animated personal site | HTML, CSS, JS |
+| **Student Management System** | CRUD App with DB | Java, MySQL |
+| **LeetCode Repo** | My daily coding practice | Java |
 
 ---
 
 ## 🌐 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/selva-vinayagam"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-  <a href="mailto:selvavinayagam07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
-  <a href="https://instagram.com"><img src="https://skillicons.dev/icons?i=instagram"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/selva-vinayagam">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60">
+  </a>
+  <a href="mailto:selvavinayagam07@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="60">
+  </a>
+  <a href="https://instagram.com">
+    <img src="https://skillicons.dev/icons?i=instagram" height="60">
+  </a>
 </p>
 
 ---
 
-## 💖 Support  
-If you like my work, consider giving it a ⭐ on the repository!  
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=selvavinayagam07&color=blue&style=for-the-badge" />
+</p>
