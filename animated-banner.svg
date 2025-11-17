@@ -1,0 +1,39 @@
+<svg width="100%" height="250" viewBox="0 0 1200 250" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="1200" height="250" fill="#0d1117" />
+
+  <!-- Moving Gradient Lights -->
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00c6ff">
+        <animate attributeName="offset" values="0;1;0" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0072ff">
+        <animate attributeName="offset" values="1;0;1" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Title -->
+  <text x="50%" y="45%" font-size="50" font-family="Monospace" fill="white" text-anchor="middle">
+    Selvavinayagam A
+  </text>
+
+  <!-- Subtitle -->
+  <text x="50%" y="65%" font-size="28" font-family="Monospace" fill="url(#grad1)" text-anchor="middle">
+    Full-Stack Developer | Java | Python | JavaScript
+  </text>
+
+  <!-- Animated Coding Symbols -->
+  <text x="200" y="200" font-size="40" fill="#00c6ff" opacity="0.7">
+    { }
+    <animate attributeName="y" values="200;180;200" dur="3s" repeatCount="indefinite" />
+  </text>
+
+  <text x="900" y="200" font-size="40" fill="#ff9f1c" opacity="0.8">
+    &lt;/&gt;
+    <animate attributeName="y" values="200;180;200" dur="2s" repeatCount="indefinite" />
+  </text>
+
+</svg>
