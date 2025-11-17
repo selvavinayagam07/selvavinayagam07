@@ -31,12 +31,12 @@ I am a highly motivated Computer Science student with a good academic background
 ## 💻 My Projects
 
 ### 1. Restaurant Management System
-A Java-based desktop application designed to manage the day-to-day operations of a restaurant.
-* **Technologies:** Java Swing (GUI), Core Java (OOP, File I/O), Flat File Storage (.txt)
+A Java-based desktop application designed to manage the day-to-day operations of a restaurant.  
+**Technologies:** Java Swing (GUI), Core Java (OOP, File I/O), Flat File Storage (.txt)
 
-### 2. Instant ID Creator-Website
-Allows users to input details, upload a photo, and instantly create a professional, downloadable ID card with a real-time preview.
-* **Technologies:** HTML, CSS, JavaScript
+### 2. Instant ID Creator – Website
+Allows users to input details, upload a photo, and instantly create a professional, downloadable ID card with real-time preview.  
+**Technologies:** HTML, CSS, JavaScript
 
 ---
 
@@ -48,7 +48,7 @@ Allows users to input details, upload a photo, and instantly create a profession
 * 📄 Certification on **Data Management**
 
 ### Paper Presentation
-* 💡 Presented a paper on **"Innovative Solutions in Renewable Energy"** at Bannari Amman Institute ofTechnology, Erode (March 2024).
+* 💡 Presented a paper on **"Innovative Solutions in Renewable Energy"** at Bannari Amman Institute of Technology, Erode (March 2024).
 
 ---
 
