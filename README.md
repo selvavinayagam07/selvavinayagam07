@@ -40,6 +40,18 @@ Allows users to input details, upload a photo, and instantly create a profession
 
 ---
 
+## 🏆 Achievements & Certifications
+
+### Certifications
+* 📄 Certification on **Java Foundation**
+* 📄 Certification on **Cyber Security**
+* 📄 Certification on **Data Management**
+
+### Paper Presentation
+* 💡 Presented a paper on **"Innovative Solutions in Renewable Energy"** at Bannari Amman Institute ofTechnology, Erode (March 2024).
+
+---
+
 ## 📊 My GitHub Stats
 
 <p align="center">
